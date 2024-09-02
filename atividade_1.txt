@@ -1,0 +1,9 @@
+Importância da Visualização de Dados:
+Explique a importância da visualização de dados no contexto de uma pandemia como a COVID-19. Como essas visualizações podem ajudar gestores de saúde pública e a população em geral a tomar decisões informadas?
+
+Os dados já são naturalmente importantes pra decisões básicas que tomamos no dia-a-dia. 
+No cenário de pandemia, não seria diferente.
+Os dados durante a pandemia, poderia demostrar aonde instituições governamentais deveriam focar na distribuição de vacinas contra covid-19.
+Por exemplo, os dados nos mostram que São Paulo é a maior cidade do Brasil, e foi um dos principais focos de covid. A partir dessa análise, já é possível direcionar da melhor maneira a distribuição das vacinas.
+Além disso, identificar regiões onde a covid está diminuindo, pode ajudar na hora de criar correlações com características da região e a evolução dos casos de covid.
+Porém, pela imensa quantidade de dados, é necessário que gráficos/visuais sejam utilizados para facilitar o acesso nessa informação.
